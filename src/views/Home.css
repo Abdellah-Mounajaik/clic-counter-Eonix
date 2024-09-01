@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+button{
+    border-radius: 15px;
+    border: none;
+    padding: 15px;
+    display: block;
+    margin: 0 auto;
+    font-size: 20px;
+}
+.vert:hover{
+    background-color: rgb(40, 135, 40);
+    color: white;
+}
+.rouge:hover{
+    background-color: #FF0000;
+    color: white;
+}
+p{
+    font-size: 30px;
+}
